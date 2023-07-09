@@ -14,6 +14,16 @@ If multiple folders opened, it'll put the prefix, so it's less confusing for dup
 
 Press enter and it'll open the file
 
+# How to Install:
+
+- Via Package Manager
+      - search for: ``goto file``
+
+- Locally
+    - In Sublime Text: ``Preference -> Browse Package``
+    - Go to folder: ``User``
+    - Put the ``goto.py`` file
+
 # And to make it a keybind:
 
 - ``Preferences -> Keybind``
